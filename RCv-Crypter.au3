@@ -1,5 +1,5 @@
 #CS
-	RCv Crypter Coded by dogo h@ck
+	RCv Crypter Coded by MGF15
 #CE
 #include <ButtonConstants.au3>
 #include <ComboConstants.au3>
